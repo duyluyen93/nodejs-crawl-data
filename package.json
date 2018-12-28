@@ -1,0 +1,21 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "Get du lieu",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Duy",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "firebase": "^5.7.1",
+    "firebase-admin": "^6.4.0",
+    "http-server": "^0.11.1",
+    "node-fetch": "^2.3.0",
+    "request": "^2.88.0"
+  }
+}
